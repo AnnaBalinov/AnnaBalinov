@@ -7,7 +7,7 @@ My Portfolio</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anna-balinov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annabalinov" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/anna-balinov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annabalinov" height="40" width="30" /></a>
 <a target="_blank" href="mailto:annabalinov@gmail.com">
   <img align="center" alt="Gmail" height="40" width="40" src="https://img.icons8.com/fluency/256/gmail-new.png" /></a>
 </p>
