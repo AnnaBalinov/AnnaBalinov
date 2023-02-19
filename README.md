@@ -9,6 +9,8 @@ My Portfolio</a></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/anna-balinov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annabalinov" height="30" width="40" /></a>
 <a href="https://www.facebook.com/anna.balinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="annabalinov" height="30" width="40" /></a>
+<a onclick="return linkRedirecter(this)" target="_blank" class="ex_link" href="https://mail.google.com/a/umn.edu/#inbox/13f62a30179692eb">Web Migrations for this weekend</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
